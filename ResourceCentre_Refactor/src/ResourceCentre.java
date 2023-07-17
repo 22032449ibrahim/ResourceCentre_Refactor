@@ -185,7 +185,6 @@ public class ResourceCentre {
 		return cc;
 		
 	}
-	
 	public static void addCamcorder(ArrayList<Camcorder> camcorderList, Camcorder cc) {
 		Camcorder item;
 		for(int i = 0; i < camcorderList.size(); i++) {
